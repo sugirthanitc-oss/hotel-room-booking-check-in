@@ -1,0 +1,7 @@
+Sample Input:
+Enter Room Number: 102
+Enter Guest Name: Ravi
+Enter Check-In Date (DD/MM/YYYY): 15/01/2026
+
+Sample Output:
+Check-in completed successfully.
