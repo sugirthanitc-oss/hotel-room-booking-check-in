@@ -17,5 +17,5 @@ It stores check-in information permanently using file handling.
 - File Handling
 
 ## Author
-<Your Name>
+<sugirthan.c>
 
